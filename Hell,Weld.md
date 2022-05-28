@@ -2,10 +2,10 @@
 Hell,世界　出力させたい<br>
 
 ```
-packge mein //パッケージを宣言
-inport "fmt"　 //fmtの標準パッケージをインポート
-func mein(){　//プログラムをコンパイルして実行すると、まず main パッケージの中にある main()関数が実行される
-  fmt.Println("Hell,世界)
+packge main //パッケージを宣言
+import "fmt"　 //fmtの標準パッケージをインポート
+func main(){　//プログラムをコンパイルして実行すると、まず main パッケージの中にある main()関数が実行される
+  fmt.Println("Hell,世界")
 }
 ```
  
