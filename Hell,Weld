@@ -1,0 +1,12 @@
+- ゴール<br>
+Hell,世界　出力させたい<br>
+
+
+packge men
+inport "fmt"
+func mein(){
+  fmt.Println("Hell,世界)
+}
+
+
+ 
