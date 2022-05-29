@@ -16,7 +16,7 @@ func main(){
   fmt.Println(math.pi) //piが大文字のPでないためmathに公開されていない名前のためエラーになる
 }
 ```
-- package mein
+- package main
  パッケージを宣言のこと
  
 - パッケージ<br>
@@ -26,7 +26,7 @@ func main(){
 - インポート　<br>
 取り込む、持ち込む、などの意味
  
-- func mein<br>
+- func main<br>
  メイン関数という意味
     
 - mathパッケージ<br>
