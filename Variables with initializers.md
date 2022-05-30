@@ -12,6 +12,8 @@ func main(){
   var c, python, java = true, false, "no!"
   fmt.Prinln(i, j, c, python, java))
 
+出力結果
+1 2 true false no!
 ```
 - package main<br>
  パッケージを宣言のこと<br>
