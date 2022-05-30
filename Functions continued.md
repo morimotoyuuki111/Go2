@@ -14,7 +14,7 @@ x,y intへ省略可能<br>
 ```
 ```
 package main //パッケージを宣言
-import "fmt"////fmtパッケージをイポート
+import "fmt"//fmtパッケージをイポート
 func add(x,y int) int { //add関数を定義して引数を２つ受け取り返す //x,y intへ省略可能
   return x+y 
 }
