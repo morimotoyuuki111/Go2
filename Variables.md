@@ -11,7 +11,7 @@ import "fmt" //fmtパッケージをイポート
 var c, python, java bool　//varを宣言している
 
 func main(){ //プログラムをコンパイルして実行すると、まず main パッケージの中にある main()関数が実行される
-  var i int //　
+  var i int //　変数　iを定義している
   fmt Println(i, c, python, java)  //値を標準の書式で出力
 }
 
