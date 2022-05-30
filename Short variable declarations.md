@@ -68,4 +68,4 @@ point整数を入れられる<br>
 point桁数が大きくなるときはlong型を使う<br>
 <a href="https://wa3.i-3-i.info/word14966.html">参考サイト</a>
 
-<a href="https://github.com/morimotoyuuki111/Go2/blob/main/Variables%20with%20initializers.md">Variables with initializers</a>
+<a href="https://github.com/morimotoyuuki111/Go2/blob/main/Variables%20with%20initializers.md">前回　Variables with initializers</a>
