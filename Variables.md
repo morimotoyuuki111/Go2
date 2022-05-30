@@ -14,6 +14,9 @@ func main(){ //プログラムをコンパイルして実行すると、まず m
   var i int //　変数　iを定義している
   fmt Println(i, c, python, java)  //値を標準の書式で出力
 }
+
+出力結果
+0 false false false
 ```
 
 - package main<br>
