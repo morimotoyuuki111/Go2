@@ -14,10 +14,6 @@ func main(){ //プログラムをコンパイルして実行すると、まず m
   var i int //　変数　iを定義している
   fmt Println(i, c, python, java)  //値を標準の書式で出力
 }
-
-func main(){ //プログラムをコンパイルして実行すると、まず main パッケージの中にある main()関数が実行される
-  fmt.Println(split(17))//値を標準の書式で出力
-}
 ```
 
 - package main<br>
