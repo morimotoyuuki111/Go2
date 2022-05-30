@@ -18,4 +18,4 @@ complex64 complex128<br>
 
 <a href="https://qiita.com/koralle/items/abeed1dfda1ecbd83acb">参考サイト</a>
 
-<a href="https://go-tour-jp.appspot.com/basics/10">前回　Short variable declarations</a>
+<a href="https://github.com/morimotoyuuki111/Go2/blob/main/Short%20variable%20declarations.md">前回　Short variable declarations</a>
