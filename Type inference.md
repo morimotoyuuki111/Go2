@@ -15,8 +15,8 @@ g := 0.867 + 0.5i // complex128
 
 ```
 package main　　//パッケージを宣言
-import "fmt"
-func main(){　標準パッケージをインポート　(fmtパッケージをインポートしている)
+import "fmt"標準パッケージをインポート　(fmtパッケージをインポートしている)
+func main(){　
   v := 0.345 + 0.34 //　　変数vに　0.345 + 0.34の方が代入される
 	fmt.Printf("v is of type %T\n", v) //右側のvに型が代入されており％Tに埋め込まれている
   
