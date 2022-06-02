@@ -52,3 +52,6 @@ func main() { //パッケージを宣言
 
 - uint型
 符号なし整数型とは、整数を格納するデータ型の一種で、0と正の数のみを表現できる整数型。 単純に全ビットを2進数の各桁に対応付けて数を表す。
+
+
+<a href="https://github.com/morimotoyuuki111/Go2/blob/main/Zero%20values.md">前回　 Zero values/a>
